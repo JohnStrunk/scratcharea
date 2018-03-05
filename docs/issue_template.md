@@ -1,0 +1,1 @@
+ISSUE_TEMPLATE/issue2.md
