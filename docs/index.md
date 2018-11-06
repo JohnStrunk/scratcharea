@@ -6,3 +6,5 @@ This is the home page.
 
 - Can I link to the [readme](README.md)
 - Or to [template2](ISSUE_TEMPLATE/issue2.md)
+
+<!-- - I'm a [broken link](nothere.md) -->
