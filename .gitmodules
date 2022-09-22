@@ -1,0 +1,3 @@
+[submodule "dispatch-test"]
+	path = dispatch-test
+	url = https://github.com/JohnStrunk/dispatch-test
